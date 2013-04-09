@@ -1,0 +1,17 @@
+{
+  "name": "pagebuilder-example",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Example of using grunt-qunit-serverless PageBuilder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Jacob Gable",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-qunit-serverless": "~0.2.5"
+  }
+}
